@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_v7G70gDwEey3IeH89WUnvQ" comment="connectionComment" label="connectionLabel" dataPackage="_v7G70wDwEey3IeH89WUnvQ"/>
+  <TalendMetadata:GenericPackage xmi:id="_v7G70wDwEey3IeH89WUnvQ" dataManager="_v7G70gDwEey3IeH89WUnvQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_v7G71ADwEey3IeH89WUnvQ" id="_xOyKMADwEey3IeH89WUnvQ" label="Fixed_Data">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_v7G71QDwEey3IeH89WUnvQ" name="KPI_id" id="134" label="KPI_id" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_v7G71gDwEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_v7G71wDwEey3IeH89WUnvQ" name="Is_weekly" id="135" label="Is_weekly" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_v7G72ADwEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_v7G72QDwEey3IeH89WUnvQ" name="BU" id="136" label="BU" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_v7G72gDwEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_v7G72wDwEey3IeH89WUnvQ" name="KPI_name" id="137" label="KPI_name" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_v7G73ADwEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_v7G73QDwEey3IeH89WUnvQ" name="KPI_WBU_Group_Desc" id="138" label="KPI_WBU_Group_Desc" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_v7G73gDwEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_v7G73wDwEey3IeH89WUnvQ" name="KPI_WBU_Group_Weight_Threshold" id="139" label="KPI_WBU_Group_Weight_Threshold" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_v7G74ADwEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_v7G74QDwEey3IeH89WUnvQ" name="Prop_target" id="140" label="Prop_target" length="-1" precision="-1" sourceType="" talendType="id_Double">
+        <initialValue xmi:id="_v7G74gDwEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_v7G74wDwEey3IeH89WUnvQ" name="weight" id="141" label="weight" length="-1" precision="-1" sourceType="" talendType="id_Double">
+        <initialValue xmi:id="_v7G75ADwEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_v7G75QDwEey3IeH89WUnvQ" name="JS" id="142" label="JS" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_v7G75gDwEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_v7G75wDwEey3IeH89WUnvQ" name="S_JS" id="143" label="S_JS" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_v7G76ADwEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_v7G76QDwEey3IeH89WUnvQ" name="KPI_dierection" id="144" label="KPI_dierection" length="-1" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_v7G76gDwEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_v7G76wDwEey3IeH89WUnvQ" name="Year" id="145" label="Year" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_v7G77ADwEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_v7G77QDwEey3IeH89WUnvQ" name="Month" id="146" label="Month" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_v7G77gDwEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_v7G77wDwEey3IeH89WUnvQ" name="Apa" id="147" label="Apa" length="-1" precision="-1" sourceType="" talendType="id_Double">
+        <initialValue xmi:id="_v7G78ADwEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_v7G78QDwEey3IeH89WUnvQ" name="Amb_target" id="148" label="Amb_target" length="-1" precision="-1" sourceType="" talendType="id_Double">
+        <initialValue xmi:id="_v7G78gDwEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_v7G78wDwEey3IeH89WUnvQ" name="Category_change" id="149" label="Category_change" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_v7G79ADwEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_v7G79QDwEey3IeH89WUnvQ" name="Target_Type" id="150" label="Target_Type" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_v7G79gDwEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_v7G79wDwEey3IeH89WUnvQ" name="SUB_BU" id="151" label="SUB_BU" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_v7G7-ADwEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_v7G7-QDwEey3IeH89WUnvQ" name="baseline" id="152" label="baseline" length="-1" precision="-1" sourceType="" talendType="id_Double">
+        <initialValue xmi:id="_v7G7-gDwEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_v7G7-wDwEey3IeH89WUnvQ" name="unit" id="153" label="unit" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_v7G7_ADwEey3IeH89WUnvQ"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

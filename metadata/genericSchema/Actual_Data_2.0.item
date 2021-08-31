@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_wLoOogDxEey3IeH89WUnvQ" comment="connectionComment" label="connectionLabel" dataPackage="_wLoOowDxEey3IeH89WUnvQ"/>
+  <TalendMetadata:GenericPackage xmi:id="_wLoOowDxEey3IeH89WUnvQ" dataManager="_wLoOogDxEey3IeH89WUnvQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_wLoOpADxEey3IeH89WUnvQ" id="_6OHAMADxEey3IeH89WUnvQ" label="Actual_Data">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_wLoOpQDxEey3IeH89WUnvQ" name="OBS_DATE" id="25451" label="OBS_DATE" length="-1" talendType="id_Date" pattern="&quot;dd/MM/yyyy&quot;">
+        <initialValue xmi:id="_wLoOpgDxEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_wLoOpwDxEey3IeH89WUnvQ" name="YEAR_NUM" id="25452" label="YEAR_NUM" length="255" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_wLoOqADxEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_wLoOqQDxEey3IeH89WUnvQ" name="MONTH_OF_YEAR" id="25453" label="MONTH_OF_YEAR" length="255" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_wLoOqgDxEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_wLoOqwDxEey3IeH89WUnvQ" name="BU" id="25454" label="BU" length="255" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_wLoOrADxEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_wLoOrQDxEey3IeH89WUnvQ" name="KPI_ID" id="25455" label="KPI_ID" length="255" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_wLoOrgDxEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_wLoOrwDxEey3IeH89WUnvQ" name="VAL" id="25456" label="VAL" length="255" talendType="id_Double" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_wLoOsADxEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_wLoOsQDxEey3IeH89WUnvQ" name="FREQUENCY" id="25457" label="FREQUENCY" length="255" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_wLoOsgDxEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_wLoOswDxEey3IeH89WUnvQ" name="WEEK_OF_YEAR" id="25458" label="WEEK_OF_YEAR" length="255" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_wLoOtADxEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_wLoOtQDxEey3IeH89WUnvQ" name="KPI_ID2" id="25459" label="KPI_ID2" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_wLoOtgDxEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_wLoOtwDxEey3IeH89WUnvQ" name="KPI_SEGMENT" id="25460" label="KPI_SEGMENT" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_wLoOuADxEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_wLoOuQDxEey3IeH89WUnvQ" name="KPI_DESC" id="25461" label="KPI_DESC" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_wLoOugDxEey3IeH89WUnvQ"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_wLoOuwDxEey3IeH89WUnvQ" name="BU3" id="25462" label="BU3" length="-1" precision="-1" sourceType="" talendType="id_String">
+        <initialValue xmi:id="_wLoOvADxEey3IeH89WUnvQ"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

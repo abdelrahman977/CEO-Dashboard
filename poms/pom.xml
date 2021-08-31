@@ -10,6 +10,10 @@
   <url>http://www.talend.org/</url>
   <modules>
     <module>code/routines</module>
+    <module>jobs/process/CEO_Dashboard/Jobs_Development/dev_assurance_monthly_0.1</module>
+    <module>jobs/process/CEO_Dashboard/Jobs_Development/dev_assurance_monthly_0.5</module>
+    <module>jobs/process/CEO_Dashboard/Jobs_Development/dev_assurance_weekly_0.2</module>
+    <module>jobs/process/CEO_Dashboard/Jobs_Development/dev_assurance_weekly_0.1</module>
   </modules>
   <properties>
     <talend.project.name>CEO_DASHBOARD</talend.project.name>
